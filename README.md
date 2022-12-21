@@ -1,6 +1,6 @@
 - 👋 Hi, I am Ahsan
 - 👀 I’m interested in programming, coding and earth
-- 💞️ I’m looking to collaborate on every project that has geospatial.
+- 💞️ I’m looking to collaborate on every project that has geospatial, and want to contribute more towards Open Source to make every thing easy and reachable to our community.
 - 📫 You can reach out to me, at ahsanmukhtar02@gmail.com 
 
 <!---
